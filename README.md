@@ -8,7 +8,7 @@ Projeto Node.js para aplicação dos conceitos de TDD. Aqui, encontram-se:
 - Supertest;
 - Variáveis de ambiente (env vars);
 - Paradigmas e conceitos de TDD;
-- Banco de dados exclusivo para rodar os testes unitários e de integração;
+- Banco de Dados exclusivo para rodar os testes unitários e de integração;
 - Autenticação JWT;
 - Migrations;
 - ESLint;
